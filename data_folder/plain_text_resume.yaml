@@ -1,0 +1,590 @@
+personal_information:
+  name: "Naveen Kumar"
+  surname: "Lakkaram"
+  date_of_birth: "14/08/1998"
+  country: "USA"
+  city: "Dayton"
+  address: "100 Cannonbury ct"
+  phone_prefix: "+1"
+  phone: "4695401361"
+  email: "lakkaramnaveenkumar@gmail.com"
+  github: "https://github.com/lakkaramnaveen"
+  linkedin: "https://www.linkedin.com/in/lakkaramnaveen"
+  
+education_details:
+  - degree: "Bachelor's Degree"
+    university: "University of Central Missouri"
+    gpa: "3.42/4"
+    graduation_year: "2024"
+    field_of_study: "Computer Science"
+    exam:
+      Algorithm Analysis and Design: "4"
+      Object-Oriented Languages and Programming: "4"
+      Advance Database: "4"
+      Linear Algebra and Numerical Analysis: "4"
+      Database: "4"
+
+experience_details:
+  - position: "Senior Software Engineer"
+    company: "Capgemini"
+    employment_period: "10/2020 - 10/2022"
+    location: "India"
+    industry: "Software"
+    key_responsibilities:
+      - "Drove the creation of 15+ application reports and a 2-year release calendar, collaborating with agile teams to gather business requirements for a finance client."
+      - "Reduced application size by 20% and improved debugging ease through the use of Java, Spring Core Annotations, Spring DI, Spring MVC for REST APIs, and Spring Boot for microservices with multi-threading. Resolved merge conflicts for 150+ git repositories, focusing on server-side development."
+      - "Enhanced productivity by 80% through process improvements and automation using Jenkins. Migrated legacy code to the latest technologies using AWS (ECS, Lambda, SNS, API Gateway, EC2, S3 Buckets), React.js, Redux, and Node.js, resulting in a 30% salary hike for team members."
+      - "Developed and maintained dynamic web applications using Angular and React frameworks, implementing responsive user interfaces with HTML, CSS, Sass, and JavaScript. Reduced page load times by 30% through optimization of JavaScript and CSS resources, enhancing user experience across multiple devices."
+    skills_acquired:
+      - "Java Full Stack"
+      - "Software Engineering"
+      - "Consultancy"
+      - "Communication"
+
+  - position: "Machine Learning Intern"
+    company: "ExpertsHub"
+    employment_period: "11/2018 - 11/2018"
+    location: "Hyderabad, India"
+    industry: "Machine Learning"
+    key_responsibilities:
+      - "Developed a Linear Regression model to predict accurate prices based on specified features by buyers and sellers."
+      - "Collaborated with AI researchers to fuse multiple neural networks, reducing memory and computational requirements by 25% while maintaining high performance in object detection and motion planning."
+      - "Fine-tuned pre-trained models on domain-specific data using LLM frameworks like Semantic Kernel, achieving state-of-the-art performance in key metrics."
+      - "Implemented machine learning algorithms and data processing techniques using Python, achieving an accuracy improvement of 90-95%."
+    skills_acquired:
+      - "Machine Learning"
+      - "Deep Learning"
+      - "TensorFlow"
+      - "Anaconda"
+
+projects:
+  - name: "Zimutail"
+    description: "Open source project, which solves the size fit problem for every individual here, and uses Javascript (Node.js), React.js, Storage - MongoDB(NoSQL), Azure, Figma, Kanban for our basic model."
+    link: "https://github.com/Mind-Blowing-Mornings/Real-Problem-Based-on-Size"
+  - name: "Django App"
+    description: "Led Full-Stack Development: Spearheaded the end-to-end development of a full-stack feature, integrating Python, React, and SQL to deliver a scalable solution that reduced processing time by 30%. Enhanced the user interface with TailwindCSS, ensuring a responsive and user-friendly experience."
+    link: "https://github.com/lakkaramnaveen/django-app"
+
+achievements:
+  - name: "TIE Hyderabad"
+    description: "Ranked in Top 5 at TIE GRAD Business Idea Tournament out of 100+ teams. Took responsibilities, problem-solving, entrepreneurship."
+
+certifications:
+  - "OCI Gen AI Certified Professional"
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+  - language: "Spanish"
+    proficiency: "Professional"
+
+interests:
+  - "Full-Stack Development"
+  - "Software Architecture"
+  - "IoT System Design and Development"
+  - "Artificial Intelligence"
+  - "Cloud Technologies"
+  - "Machine Learning"
+
+availability:
+  notice_period: "immediately"
+
+salary_expectations:
+  salary_range_usd: "60000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
+personal_information:
+  name: "Naveen Kumar"
+  surname: "Lakkaram"
+  date_of_birth: "14/08/1998"
+  country: "USA"
+  city: "Dayton"
+  address: "100 Cannonbury ct"
+  phone_prefix: "+1"
+  phone: "4695401361"
+  email: "lakkaramnaveenkumar@gmail.com"
+  github: "https://github.com/lakkaramnaveen"
+  linkedin: "https://www.linkedin.com/in/lakkaramnaveen"
+  
+education_details:
+  - degree: "Bachelor's Degree"
+    university: "University of Central Missouri"
+    gpa: "3.42/4"
+    graduation_year: "2024"
+    field_of_study: "Computer Science"
+    exam:
+      Algorithm Analysis and Design: "4"
+      Object-Oriented Languages and Programming: "4"
+      Advance Database: "4"
+      Linear Algebra and Numerical Analysis: "4"
+      Database: "4"
+
+experience_details:
+  - position: "Senior Software Engineer"
+    company: "Capgemini"
+    employment_period: "10/2020 - 10/2022"
+    location: "India"
+    industry: "Software"
+    key_responsibilities:
+      - "Drove the creation of 15+ application reports and a 2-year release calendar, collaborating with agile teams to gather business requirements for a finance client."
+      - "Reduced application size by 20% and improved debugging ease through the use of Java, Spring Core Annotations, Spring DI, Spring MVC for REST APIs, and Spring Boot for microservices with multi-threading. Resolved merge conflicts for 150+ git repositories, focusing on server-side development."
+      - "Enhanced productivity by 80% through process improvements and automation using Jenkins. Migrated legacy code to the latest technologies using AWS (ECS, Lambda, SNS, API Gateway, EC2, S3 Buckets), React.js, Redux, and Node.js, resulting in a 30% salary hike for team members."
+      - "Developed and maintained dynamic web applications using Angular and React frameworks, implementing responsive user interfaces with HTML, CSS, Sass, and JavaScript. Reduced page load times by 30% through optimization of JavaScript and CSS resources, enhancing user experience across multiple devices."
+    skills_acquired:
+      - "Java Full Stack"
+      - "Software Engineering"
+      - "Consultancy"
+      - "Communication"
+
+  - position: "Machine Learning Intern"
+    company: "ExpertsHub"
+    employment_period: "11/2018 - 11/2018"
+    location: "Hyderabad, India"
+    industry: "Machine Learning"
+    key_responsibilities:
+      - "Developed a Linear Regression model to predict accurate prices based on specified features by buyers and sellers."
+      - "Collaborated with AI researchers to fuse multiple neural networks, reducing memory and computational requirements by 25% while maintaining high performance in object detection and motion planning."
+      - "Fine-tuned pre-trained models on domain-specific data using LLM frameworks like Semantic Kernel, achieving state-of-the-art performance in key metrics."
+      - "Implemented machine learning algorithms and data processing techniques using Python, achieving an accuracy improvement of 90-95%."
+    skills_acquired:
+      - "Machine Learning"
+      - "Deep Learning"
+      - "TensorFlow"
+      - "Anaconda"
+
+projects:
+  - name: "Zimutail"
+    description: "Open source project, which solves the size fit problem for every individual here, and uses Javascript (Node.js), React.js, Storage - MongoDB(NoSQL), Azure, Figma, Kanban for our basic model."
+    link: "https://github.com/Mind-Blowing-Mornings/Real-Problem-Based-on-Size"
+  - name: "Django App"
+    description: "Led Full-Stack Development: Spearheaded the end-to-end development of a full-stack feature, integrating Python, React, and SQL to deliver a scalable solution that reduced processing time by 30%. Enhanced the user interface with TailwindCSS, ensuring a responsive and user-friendly experience."
+    link: "https://github.com/lakkaramnaveen/django-app"
+
+achievements:
+  - name: "TIE Hyderabad"
+    description: "Ranked in Top 5 at TIE GRAD Business Idea Tournament out of 100+ teams. Took responsibilities, problem-solving, entrepreneurship."
+
+certifications:
+  - "OCI Gen AI Certified Professional"
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+  - language: "Spanish"
+    proficiency: "Professional"
+
+interests:
+  - "Full-Stack Development"
+  - "Software Architecture"
+  - "IoT System Design and Development"
+  - "Artificial Intelligence"
+  - "Cloud Technologies"
+  - "Machine Learning"
+
+availability:
+  notice_period: "immediately"
+
+salary_expectations:
+  salary_range_usd: "60000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
+personal_information:
+  name: "Naveen Kumar"
+  surname: "Lakkaram"
+  date_of_birth: "14/08/1998"
+  country: "USA"
+  city: "Dayton"
+  address: "100 Cannonbury ct"
+  phone_prefix: "+1"
+  phone: "4695401361"
+  email: "lakkaramnaveenkumar@gmail.com"
+  github: "https://github.com/lakkaramnaveen"
+  linkedin: "https://www.linkedin.com/in/lakkaramnaveen"
+  
+education_details:
+  - degree: "Bachelor's Degree"
+    university: "University of Central Missouri"
+    gpa: "3.42/4"
+    graduation_year: "2024"
+    field_of_study: "Computer Science"
+    exam:
+      Algorithm Analysis and Design: "4"
+      Object-Oriented Languages and Programming: "4"
+      Advance Database: "4"
+      Linear Algebra and Numerical Analysis: "4"
+      Database: "4"
+
+experience_details:
+  - position: "Senior Software Engineer"
+    company: "Capgemini"
+    employment_period: "10/2020 - 10/2022"
+    location: "India"
+    industry: "Software"
+    key_responsibilities:
+      - "Drove the creation of 15+ application reports and a 2-year release calendar, collaborating with agile teams to gather business requirements for a finance client."
+      - "Reduced application size by 20% and improved debugging ease through the use of Java, Spring Core Annotations, Spring DI, Spring MVC for REST APIs, and Spring Boot for microservices with multi-threading. Resolved merge conflicts for 150+ git repositories, focusing on server-side development."
+      - "Enhanced productivity by 80% through process improvements and automation using Jenkins. Migrated legacy code to the latest technologies using AWS (ECS, Lambda, SNS, API Gateway, EC2, S3 Buckets), React.js, Redux, and Node.js, resulting in a 30% salary hike for team members."
+      - "Developed and maintained dynamic web applications using Angular and React frameworks, implementing responsive user interfaces with HTML, CSS, Sass, and JavaScript. Reduced page load times by 30% through optimization of JavaScript and CSS resources, enhancing user experience across multiple devices."
+    skills_acquired:
+      - "Java Full Stack"
+      - "Software Engineering"
+      - "Consultancy"
+      - "Communication"
+
+  - position: "Machine Learning Intern"
+    company: "ExpertsHub"
+    employment_period: "11/2018 - 11/2018"
+    location: "Hyderabad, India"
+    industry: "Machine Learning"
+    key_responsibilities:
+      - "Developed a Linear Regression model to predict accurate prices based on specified features by buyers and sellers."
+      - "Collaborated with AI researchers to fuse multiple neural networks, reducing memory and computational requirements by 25% while maintaining high performance in object detection and motion planning."
+      - "Fine-tuned pre-trained models on domain-specific data using LLM frameworks like Semantic Kernel, achieving state-of-the-art performance in key metrics."
+      - "Implemented machine learning algorithms and data processing techniques using Python, achieving an accuracy improvement of 90-95%."
+    skills_acquired:
+      - "Machine Learning"
+      - "Deep Learning"
+      - "TensorFlow"
+      - "Anaconda"
+
+projects:
+  - name: "Zimutail"
+    description: "Open source project, which solves the size fit problem for every individual here, and uses Javascript (Node.js), React.js, Storage - MongoDB(NoSQL), Azure, Figma, Kanban for our basic model."
+    link: "https://github.com/Mind-Blowing-Mornings/Real-Problem-Based-on-Size"
+  - name: "Django App"
+    description: "Led Full-Stack Development: Spearheaded the end-to-end development of a full-stack feature, integrating Python, React, and SQL to deliver a scalable solution that reduced processing time by 30%. Enhanced the user interface with TailwindCSS, ensuring a responsive and user-friendly experience."
+    link: "https://github.com/lakkaramnaveen/django-app"
+
+achievements:
+  - name: "TIE Hyderabad"
+    description: "Ranked in Top 5 at TIE GRAD Business Idea Tournament out of 100+ teams. Took responsibilities, problem-solving, entrepreneurship."
+
+certifications:
+  - "OCI Gen AI Certified Professional"
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+  - language: "Spanish"
+    proficiency: "Professional"
+
+interests:
+  - "Full-Stack Development"
+  - "Software Architecture"
+  - "IoT System Design and Development"
+  - "Artificial Intelligence"
+  - "Cloud Technologies"
+  - "Machine Learning"
+
+availability:
+  notice_period: "immediately"
+
+salary_expectations:
+  salary_range_usd: "60000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
+personal_information:
+  name: "Naveen Kumar"
+  surname: "Lakkaram"
+  date_of_birth: "14/08/1998"
+  country: "USA"
+  city: "Dayton"
+  address: "100 Cannonbury ct"
+  phone_prefix: "+1"
+  phone: "4695401361"
+  email: "lakkaramnaveenkumar@gmail.com"
+  github: "https://github.com/lakkaramnaveen"
+  linkedin: "https://www.linkedin.com/in/lakkaramnaveen"
+  
+education_details:
+  - degree: "Bachelor's Degree"
+    university: "University of Central Missouri"
+    gpa: "3.42/4"
+    graduation_year: "2024"
+    field_of_study: "Computer Science"
+    exam:
+      Algorithm Analysis and Design: "4"
+      Object-Oriented Languages and Programming: "4"
+      Advance Database: "4"
+      Linear Algebra and Numerical Analysis: "4"
+      Database: "4"
+
+experience_details:
+  - position: "Senior Software Engineer"
+    company: "Capgemini"
+    employment_period: "10/2020 - 10/2022"
+    location: "India"
+    industry: "Software"
+    key_responsibilities:
+      - "Drove the creation of 15+ application reports and a 2-year release calendar, collaborating with agile teams to gather business requirements for a finance client."
+      - "Reduced application size by 20% and improved debugging ease through the use of Java, Spring Core Annotations, Spring DI, Spring MVC for REST APIs, and Spring Boot for microservices with multi-threading. Resolved merge conflicts for 150+ git repositories, focusing on server-side development."
+      - "Enhanced productivity by 80% through process improvements and automation using Jenkins. Migrated legacy code to the latest technologies using AWS (ECS, Lambda, SNS, API Gateway, EC2, S3 Buckets), React.js, Redux, and Node.js, resulting in a 30% salary hike for team members."
+      - "Developed and maintained dynamic web applications using Angular and React frameworks, implementing responsive user interfaces with HTML, CSS, Sass, and JavaScript. Reduced page load times by 30% through optimization of JavaScript and CSS resources, enhancing user experience across multiple devices."
+    skills_acquired:
+      - "Java Full Stack"
+      - "Software Engineering"
+      - "Consultancy"
+      - "Communication"
+
+  - position: "Machine Learning Intern"
+    company: "ExpertsHub"
+    employment_period: "11/2018 - 11/2018"
+    location: "Hyderabad, India"
+    industry: "Machine Learning"
+    key_responsibilities:
+      - "Developed a Linear Regression model to predict accurate prices based on specified features by buyers and sellers."
+      - "Collaborated with AI researchers to fuse multiple neural networks, reducing memory and computational requirements by 25% while maintaining high performance in object detection and motion planning."
+      - "Fine-tuned pre-trained models on domain-specific data using LLM frameworks like Semantic Kernel, achieving state-of-the-art performance in key metrics."
+      - "Implemented machine learning algorithms and data processing techniques using Python, achieving an accuracy improvement of 90-95%."
+    skills_acquired:
+      - "Machine Learning"
+      - "Deep Learning"
+      - "TensorFlow"
+      - "Anaconda"
+
+projects:
+  - name: "Zimutail"
+    description: "Open source project, which solves the size fit problem for every individual here, and uses Javascript (Node.js), React.js, Storage - MongoDB(NoSQL), Azure, Figma, Kanban for our basic model."
+    link: "https://github.com/Mind-Blowing-Mornings/Real-Problem-Based-on-Size"
+  - name: "Django App"
+    description: "Led Full-Stack Development: Spearheaded the end-to-end development of a full-stack feature, integrating Python, React, and SQL to deliver a scalable solution that reduced processing time by 30%. Enhanced the user interface with TailwindCSS, ensuring a responsive and user-friendly experience."
+    link: "https://github.com/lakkaramnaveen/django-app"
+
+achievements:
+  - name: "TIE Hyderabad"
+    description: "Ranked in Top 5 at TIE GRAD Business Idea Tournament out of 100+ teams. Took responsibilities, problem-solving, entrepreneurship."
+
+certifications:
+  - "OCI Gen AI Certified Professional"
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+  - language: "Spanish"
+    proficiency: "Professional"
+
+interests:
+  - "Full-Stack Development"
+  - "Software Architecture"
+  - "IoT System Design and Development"
+  - "Artificial Intelligence"
+  - "Cloud Technologies"
+  - "Machine Learning"
+
+availability:
+  notice_period: "immediately"
+
+salary_expectations:
+  salary_range_usd: "60000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
+personal_information:
+  name: "Naveen Kumar"
+  surname: "Lakkaram"
+  date_of_birth: "14/08/1998"
+  country: "USA"
+  city: "Dayton"
+  address: "100 Cannonbury ct"
+  phone_prefix: "+1"
+  phone: "4695401361"
+  email: "lakkaramnaveenkumar@gmail.com"
+  github: "https://github.com/lakkaramnaveen"
+  linkedin: "https://www.linkedin.com/in/lakkaramnaveen"
+  
+education_details:
+  - degree: "Bachelor's Degree"
+    university: "University of Central Missouri"
+    gpa: "3.42/4"
+    graduation_year: "2024"
+    field_of_study: "Computer Science"
+    exam:
+      Algorithm Analysis and Design: "4"
+      Object-Oriented Languages and Programming: "4"
+      Advance Database: "4"
+      Linear Algebra and Numerical Analysis: "4"
+      Database: "4"
+
+experience_details:
+  - position: "Senior Software Engineer"
+    company: "Capgemini"
+    employment_period: "10/2020 - 10/2022"
+    location: "India"
+    industry: "Software"
+    key_responsibilities:
+      - description: "Drove the creation of 15+ application reports and a 2-year release calendar, collaborating with agile teams to gather business requirements for a finance client."
+      - description: "Reduced application size by 20% and improved debugging ease through the use of Java, Spring Core Annotations, Spring DI, Spring MVC for REST APIs, and Spring Boot for microservices with multi-threading, resolved merge conflicts for 150+ git repositories, server-side development."
+      - description: "Enhanced productivity by 80% through process improvements and automation using Jenkins. Migrated legacy code to the latest technology stack using AWS (ECS, Lambda, SNS, API Gateway, EC2, S3 Buckets), React.js, Redux, and Node.js, resulting in a 30% salary hike for team members."
+      - description: "Developed and maintained dynamic web applications using Angular and React frameworks, implementing responsive user interfaces with HTML, CSS, Sass, and JavaScript. Reduced page load times by 30% through optimization of JavaScript and CSS resources, enhancing user experience across multiple devices."
+    skills_acquired:
+      - "Java Full Stack"
+      - "Software engineering"
+      - "Consultancy"
+      - "Communication"
+
+  - position: "Machine Learning Intern"
+    company: "ExpertsHub"
+    employment_period: "11/2018 - 11/2018"
+    location: "Hyderabad, India"
+    industry: "Machine Learning"
+    key_responsibilities:
+      - description: "Developed a Linear Regression model to provide accurate pricing predictions based on specified features by buyers and sellers."
+      - description: "Collaborated with AI researchers to fuse multiple neural networks, reducing memory and computational requirements by 25% while maintaining high performance in object detection and motion planning."
+      - description: "Fine-tuned pre-trained models on domain-specific data using LLM frameworks like Semantic Kernel, achieving state-of-the-art performance in key metrics."
+      - description: "Implemented machine learning algorithms and data processing techniques using Python, achieving an accuracy improvement of 90-95%."
+    skills_acquired:
+      - "Machine Learning"
+      - "Deep Learning"
+      - "Tensor Flow"
+      - "Anaconda"
+
+projects:
+  - name: "Zimutail"
+    description: "Open source project, which solves the size fit problem for every individual here, and uses Javascript (Node.js), React.js, Storage - MongoDB(NoSQL), Azure, Figma, Kanban for our basic model."
+    link: "https://github.com/Mind-Blowing-Mornings/Real-Problem-Based-on-Size"
+  - name: "Django App"
+    description: "Led Full-Stack Development: Spearheaded the end-to-end development of a full-stack feature, integrating Python, React, and SQL to deliver a scalable solution that reduced processing time by 30%. Enhanced the user interface with TailwindCSS, ensuring a responsive and user-friendly experience."
+    link: "https://github.com/lakkaramnaveen/django-app"
+
+achievements:
+  - name: "TIE Hyderabad"
+    description: "Ranked in Top 5 at TIE GRAD Business Idea Tournament out of 100+ teams. Took responsibilities, problem-solving, entrepreneurship."
+
+certifications:
+  - "OCI Gen AI Certified Professional"
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+  - language: "Spanish"
+    proficiency: "Professional"
+
+interests:
+  - "Full-Stack Development"
+  - "Software Architecture"
+  - "IoT System Design and Development"
+  - "Artificial Intelligence"
+  - "Cloud Technologies"
+  - "Machine Learning"
+
+availability:
+  notice_period: "immediately"
+
+salary_expectations:
+  salary_range_usd: "60000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"

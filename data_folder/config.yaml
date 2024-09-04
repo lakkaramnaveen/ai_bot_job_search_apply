@@ -1,0 +1,44 @@
+remote: true
+
+experienceLevel:
+  internship: true
+  entry: true
+  associate: true
+  "mid-senior level": false
+  director: false
+  executive: false
+
+jobTypes:
+  "full-time": true
+  contract: false
+  "part-time": false
+  temporary: true
+  internship: false
+  other: false
+  volunteer: true
+
+date:
+  "all time": false
+  month: true
+  week: true
+  "24 hours": true
+
+positions:
+  - Software Engineer
+  - Software Developer
+  - Java Developer
+  - Web developer
+  - Full stack developer
+  - Java full stack developer
+
+locations:
+  - USA
+
+distance: 100
+
+companyBlacklist:
+  - Noir
+  - Crossover
+
+titleBlacklist:
+  - Data engineer
