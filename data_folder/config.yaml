@@ -1,4 +1,4 @@
-remote: true
+remote: false
 
 experienceLevel:
   internship: true
@@ -13,13 +13,13 @@ jobTypes:
   contract: false
   "part-time": false
   temporary: true
-  internship: false
+  internship: true
   other: false
   volunteer: true
 
 date:
   "all time": false
-  month: true
+  month: false
   week: true
   "24 hours": true
 
@@ -30,6 +30,7 @@ positions:
   - Web developer
   - Full stack developer
   - Java full stack developer
+  - Junior Developer
 
 locations:
   - USA

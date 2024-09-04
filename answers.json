@@ -1,0 +1,1452 @@
+[
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "radio",
+        "question": "hispanic or latinoamerican indian or alaska native (not hispanic or latino)asian (not hispanic or latino)black or african american (not hispanic or latino)native hawaiian or other pacific islander (not hispanic or latino)two or more races (not hispanic or latino)white (not hispanic or latino)i prefer not to specify",
+        "answer": "asian (not hispanic or latino)"
+    },
+    {
+        "type": "radio",
+        "question": "gendergenderrequiredmalefemalei prefer not to specify",
+        "answer": "male"
+    },
+    {
+        "type": "radio",
+        "question": "i identify as one or more of the classifications of protected veteran listed abovei am not a protected veterani prefer not to specify",
+        "answer": "i am not a protected veteran"
+    },
+    {
+        "type": "radio",
+        "question": "yes, i have a disability, or have had one in the pastno, i do not have a disability and have not had one in the pasti do not want to answer",
+        "answer": "no, i do not have a disability and have not had one in the past"
+    },
+    {
+        "type": "radio",
+        "question": "are you a veteran?are you a veteran?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "do you claim disability status?do you claim disability status?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "hispanic or latinoamerican indian or alaska native (not hispanic or latino)asian (not hispanic or latino)black or african american (not hispanic or latino)native hawaiian or other pacific islander (not hispanic or latino)two or more races (not hispanic or latino)white (not hispanic or latino)i prefer not to specify",
+        "answer": "asian (not hispanic or latino)"
+    },
+    {
+        "type": "radio",
+        "question": "gendergenderrequiredmalefemalei prefer not to specify",
+        "answer": "male"
+    },
+    {
+        "type": "radio",
+        "question": "i identify as one or more of the classifications of protected veteran listed abovei am not a protected veterani prefer not to specify",
+        "answer": "i am not a protected veteran"
+    },
+    {
+        "type": "radio",
+        "question": "yes, i have a disability, or have had one in the pastno, i do not have a disability and have not had one in the pasti do not want to answer",
+        "answer": "no, i do not have a disability and have not had one in the past"
+    },
+    {
+        "type": "radio",
+        "question": "are you a veteran?are you a veteran?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "do you claim disability status?do you claim disability status?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "hispanic or latinoamerican indian or alaska native (not hispanic or latino)asian (not hispanic or latino)black or african american (not hispanic or latino)native hawaiian or other pacific islander (not hispanic or latino)two or more races (not hispanic or latino)white (not hispanic or latino)i prefer not to specify",
+        "answer": "asian (not hispanic or latino)"
+    },
+    {
+        "type": "radio",
+        "question": "gendergenderrequiredmalefemalei prefer not to specify",
+        "answer": "male"
+    },
+    {
+        "type": "radio",
+        "question": "i identify as one or more of the classifications of protected veteran listed abovei am not a protected veterani prefer not to specify",
+        "answer": "i am not a protected veteran"
+    },
+    {
+        "type": "radio",
+        "question": "yes, i have a disability, or have had one in the pastno, i do not have a disability and have not had one in the pasti do not want to answer",
+        "answer": "no, i do not have a disability and have not had one in the past"
+    },
+    {
+        "type": "radio",
+        "question": "are you a veteran?are you a veteran?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "do you claim disability status?do you claim disability status?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in the united states on a full-time basis?are you legally authorized to work in the united states on a full-time basis?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "will you now or in the future require sponsorship for employment visa status?will you now or in the future require sponsorship for employment visa status?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you currently reside in the united states?do you currently reside in the united states?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "what is your country of citizenship?what is your country of citizenship?",
+        "answer": "US citizen"
+    },
+    {
+        "type": "numeric",
+        "question": "what are your salary expectations for this role?",
+        "answer": 80
+    },
+    {
+        "type": "radio",
+        "question": "by checking this box, you will declare that you read and understand the privacy policy of brightspeed.by checking this box, you will declare that you read and understand the privacy policy of brightspeed.requiredi consent",
+        "answer": "i consent"
+    },
+    {
+        "type": "radio",
+        "question": "by checking this box, you will declare that you read and understand the privacy policy of brightspeed.by checking this box, you will declare that you read and understand the privacy policy of brightspeed.requiredi consent",
+        "answer": "i consent"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with angular?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with node.js?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with both frontend and backend development?do you have experience with both frontend and backend development?",
+        "answer": "Yes"
+    },
+    {
+        "type": "radio",
+        "question": "will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with python (programming language)?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with java?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience working in the influencer marketing space or similar fields?do you have experience working in the influencer marketing space or similar fields?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with salesforce.com?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in the united states?are you legally authorized to work in the united states?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "radio",
+        "question": "have you completed the following level of education: bachelor's degree?have you completed the following level of education: bachelor's degree?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with python (programming language)?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "would you like to receive emails, text messages, or phone calls about this job and other matching opportunities?would you like to receive emails, text messages, or phone calls about this job and other matching opportunities?",
+        "answer": "Yes"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "citycity",
+        "answer": "Dayton"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in the united states?are you legally authorized to work in the united states?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable working in a remote setting?are you comfortable working in a remote setting?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "4+ years of experience in full stack development.",
+        "answer": 6
+    },
+    {
+        "type": "numeric",
+        "question": "design, develop, and maintain high-quality applications using .net technologies, including c#, asp.net, and ado.net",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "strong experience with sql server integration services (ssis) and etl processes.",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "proficiency in sql server, including complex sql queries, stored procedures, and performance tuning.",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "expertise in web services (soap, rest) and related technologies.",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "strong exposure with healthcare clinical data",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in the united states?are you legally authorized to work in the united states?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "radio",
+        "question": "hispanic or latinoamerican indian or alaska native (not hispanic or latino)asian (not hispanic or latino)black or african american (not hispanic or latino)native hawaiian or other pacific islander (not hispanic or latino)two or more races (not hispanic or latino)white (not hispanic or latino)i prefer not to specify",
+        "answer": "asian (not hispanic or latino)"
+    },
+    {
+        "type": "radio",
+        "question": "gendergenderrequiredmalefemalei prefer not to specify",
+        "answer": "male"
+    },
+    {
+        "type": "radio",
+        "question": "i identify as one or more of the classifications of protected veteran listed abovei am not a protected veterani prefer not to specify",
+        "answer": "i am not a protected veteran"
+    },
+    {
+        "type": "radio",
+        "question": "yes, i have a disability, or have had one in the pastno, i do not have a disability and have not had one in the pasti do not want to answer",
+        "answer": "no, i do not have a disability and have not had one in the past"
+    },
+    {
+        "type": "radio",
+        "question": "are you a veteran?are you a veteran?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "do you claim disability status?do you claim disability status?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "hispanic or latinoamerican indian or alaska native (not hispanic or latino)asian (not hispanic or latino)black or african american (not hispanic or latino)native hawaiian or other pacific islander (not hispanic or latino)two or more races (not hispanic or latino)white (not hispanic or latino)i prefer not to specify",
+        "answer": "asian (not hispanic or latino)"
+    },
+    {
+        "type": "radio",
+        "question": "gendergenderrequiredmalefemalei prefer not to specify",
+        "answer": "male"
+    },
+    {
+        "type": "radio",
+        "question": "i identify as one or more of the classifications of protected veteran listed abovei am not a protected veterani prefer not to specify",
+        "answer": "i am not a protected veteran"
+    },
+    {
+        "type": "radio",
+        "question": "yes, i have a disability, or have had one in the pastno, i do not have a disability and have not had one in the pasti do not want to answer",
+        "answer": "no, i do not have a disability and have not had one in the past"
+    },
+    {
+        "type": "radio",
+        "question": "are you a veteran?are you a veteran?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "do you claim disability status?do you claim disability status?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "hispanic or latinoamerican indian or alaska native (not hispanic or latino)asian (not hispanic or latino)black or african american (not hispanic or latino)native hawaiian or other pacific islander (not hispanic or latino)two or more races (not hispanic or latino)white (not hispanic or latino)i prefer not to specify",
+        "answer": "asian (not hispanic or latino)"
+    },
+    {
+        "type": "radio",
+        "question": "gendergenderrequiredmalefemalei prefer not to specify",
+        "answer": "male"
+    },
+    {
+        "type": "radio",
+        "question": "i identify as one or more of the classifications of protected veteran listed abovei am not a protected veterani prefer not to specify",
+        "answer": "i am not a protected veteran"
+    },
+    {
+        "type": "radio",
+        "question": "yes, i have a disability, or have had one in the pastno, i do not have a disability and have not had one in the pasti do not want to answer",
+        "answer": "no, i do not have a disability and have not had one in the past"
+    },
+    {
+        "type": "radio",
+        "question": "are you a veteran?are you a veteran?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "do you claim disability status?do you claim disability status?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in the united states on a full-time basis?are you legally authorized to work in the united states on a full-time basis?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "will you now or in the future require sponsorship for employment visa status?will you now or in the future require sponsorship for employment visa status?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you currently reside in the united states?do you currently reside in the united states?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "what is your country of citizenship?what is your country of citizenship?",
+        "answer": "US citizen"
+    },
+    {
+        "type": "numeric",
+        "question": "what are your salary expectations for this role?",
+        "answer": 80
+    },
+    {
+        "type": "radio",
+        "question": "by checking this box, you will declare that you read and understand the privacy policy of brightspeed.by checking this box, you will declare that you read and understand the privacy policy of brightspeed.requiredi consent",
+        "answer": "i consent"
+    },
+    {
+        "type": "radio",
+        "question": "by checking this box, you will declare that you read and understand the privacy policy of brightspeed.by checking this box, you will declare that you read and understand the privacy policy of brightspeed.requiredi consent",
+        "answer": "i consent"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "street address line 1",
+        "answer": "100 Cannonbury ct"
+    },
+    {
+        "type": "textbox",
+        "question": "citycity",
+        "answer": "Dayton"
+    },
+    {
+        "type": "textbox",
+        "question": "state",
+        "answer": "Asian"
+    },
+    {
+        "type": "textbox",
+        "question": "zip / postal code",
+        "answer": "The zip / postal code is not provided in the personal information."
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "schoolschool",
+        "answer": "University of Central Missouri"
+    },
+    {
+        "type": "dropdown",
+        "question": "degreedegree",
+        "answer": "Bachelor's Degree"
+    },
+    {
+        "type": "dropdown",
+        "question": "disciplinediscipline",
+        "answer": "Computer Science"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Lakkaram"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "United States (+1)"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with oracle hcm?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with visual studio?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have both oracle hcm configuration and oracle hcm modules support experience? do you have both oracle hcm configuration and oracle hcm modules support experience?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft sql server?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sql?",
+        "answer": 4
+    },
+    {
+        "type": "radio",
+        "question": "are you willing to undergo a background check, in accordance with local law/regulations?are you willing to undergo a background check, in accordance with local law/regulations?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable working in an onsite setting?are you comfortable working in an onsite setting?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "emailemail",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "phone",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "emailemail",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "phone",
+        "answer": "4695401361"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with postgresql?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with restfulapis?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with react.js and tailwind/css?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cache object script?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with intersystems cache?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "emailemail",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "phone",
+        "answer": "4695401361"
+    },
+    {
+        "type": "dropdown",
+        "question": "emailemail",
+        "answer": "lakkaramnaveenkumar@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "phone",
+        "answer": "4695401361"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with c++?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable commuting to this job's location?are you comfortable commuting to this job's location?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with programming?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with c++?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with visual basic .net (vb.net)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with programmable logic controller (plc)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of engineering experience do you currently have?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "what is your university grade point average (4.0 gpa scale)?",
+        "answer": 4
+    },
+    {
+        "type": "textbox",
+        "question": "address",
+        "answer": "100 Cannonbury ct"
+    },
+    {
+        "type": "textbox",
+        "question": "address",
+        "answer": "100 Cannonbury ct"
+    },
+    {
+        "type": "textbox",
+        "question": "headline",
+        "answer": "Naveen Kumar Lakkaram"
+    },
+    {
+        "type": "textbox",
+        "question": "summary",
+        "answer": "I am excited to apply for the Systems Engineer position at Tios Capital, as I am eager to leverage my technical expertise and passion for innovation in a dynamic trading environment. With a Bachelor's degree in Computer Science and over two years of experience in software engineering, including hands-on work with AWS and cloud infrastructure, I am well-prepared to contribute to your team's mission of optimizing and securing production systems.\n\nIn my previous role at Capgemini, I successfully migrated legacy applications to AWS, utilizing services such as EC2 and S3, which not only improved performance but also enhanced team productivity by 80% through automation and process improvements. My experience with Ubuntu Linux administration, along with proficiency in Bash scripting and collaboration with cross-functional teams, aligns perfectly with the requirements of this role. Additionally, my familiarity with configuration management tools like SaltStack and my commitment to implementing security best practices will allow me to effectively support Tios Capital's infrastructure.\n\nI am particularly drawn to Tios Capital's values of humility, resilience, and teamwork, which resonate with my own professional philosophy. I am enthusiastic about the opportunity to grow within a collaborative environment and contribute to innovative trading strategies. I look forward to the possibility of discussing how my background and skills can be a valuable asset to your team."
+    },
+    {
+        "type": "textbox",
+        "question": "cover letter",
+        "answer": "I am excited to apply for the Systems Engineer position at Tios Capital, as it aligns perfectly with my professional aspirations and my background in systems engineering and cloud technologies. With a Bachelor's Degree in Computer Science and over two years of experience in software engineering, I have developed a strong foundation in managing cloud infrastructure, particularly with AWS, and have honed my skills in Ubuntu Linux administration and troubleshooting.\n\nIn my previous role as a Senior Software Engineer at Capgemini, I successfully migrated legacy applications to AWS, optimizing performance and reducing costs by implementing scalable solutions using ECS, Lambda, and EC2. I also have experience with configuration management and automation, having utilized Jenkins to enhance productivity by 80% through process improvements. My hands-on experience with various data stores, including RDS and Cassandra, complements your need for a candidate who can manage and monitor multiple data platforms effectively.\n\nI am particularly drawn to Tios Capital's commitment to continuous improvement and teamwork, values that resonate deeply with my own work ethic. I thrive in collaborative environments and am eager to contribute to a culture that fosters innovation and growth. I would love the opportunity to discuss how my skills and experiences can benefit your team and help Tios Capital continue to excel in the wholesale power markets."
+    },
+    {
+        "type": "textbox",
+        "question": "headline",
+        "answer": "Naveen Kumar Lakkaram"
+    },
+    {
+        "type": "textbox",
+        "question": "summary",
+        "answer": "I am excited to apply for the Systems Engineer position at Tios Capital, as I believe my background in systems engineering and cloud infrastructure aligns perfectly with your needs. With a Bachelor's degree in Computer Science and over two years of experience at Capgemini, I have honed my skills in managing AWS environments, optimizing system performance, and collaborating with cross-functional teams. My hands-on experience with AWS services, including EC2 and S3, along with my proficiency in Ubuntu Linux administration, positions me well to contribute effectively to your innovative trading strategies.\n\nAt Capgemini, I successfully migrated legacy systems to AWS, improving application efficiency by 30% and enhancing team productivity through automation with Jenkins. My experience with configuration management using tools like SaltStack and my ability to support diverse data stores, including RDS and Cassandra, will enable me to manage and optimize Tios Capital's complex systems infrastructure. I am particularly drawn to Tios Capital's commitment to continuous improvement and teamwork, values that resonate deeply with my professional philosophy.\n\nI am eager to bring my technical expertise and collaborative spirit to Tios Capital, where I can grow into a senior role while contributing to your mission of leveraging technology for innovative trading solutions. I look forward to the opportunity to discuss how my background and skills can support your team in achieving its goals."
+    },
+    {
+        "type": "textbox",
+        "question": "cover letter",
+        "answer": "I am excited to apply for the Systems Engineer position at Tios Capital. With a Bachelor's degree in Computer Science and over two years of experience in systems engineering, I am eager to leverage my skills in AWS cloud infrastructure and Linux administration to contribute to your innovative team. Tios Capital's commitment to continuous improvement and teamwork resonates deeply with my professional values, and I am enthusiastic about the opportunity to grow within an entrepreneurial environment.\n\nIn my previous role as a Senior Software Engineer at Capgemini, I successfully migrated legacy systems to AWS, utilizing services such as EC2 and S3, which aligns closely with the responsibilities outlined in your job description. My experience with configuration management using tools like Jenkins and my proficiency in Bash scripting will enable me to effectively manage and optimize your production and research systems. Additionally, my collaborative work with agile teams has honed my problem-solving and communication skills, allowing me to thrive in cross-functional settings.\n\nI am particularly drawn to Tios Capital's focus on leveraging technology for scalable trading strategies. I am excited about the possibility of contributing to the management of your AWS environments and supporting the development lifecycles for your Quant and Tech teams. I look forward to the opportunity to discuss how my background and skills can help Tios Capital continue to innovate and excel in the wholesale power markets."
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of transportation, logistics, supply chain and storage experience do you currently have?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable commuting to this job's location?are you comfortable commuting to this job's location?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you have a valid driver's license?do you have a valid driver's license?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable commuting to this job's location?are you comfortable commuting to this job's location?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with oracle sql developer?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have an active secret clearance?do you have an active secret clearance?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you ever had any experience working on a cyclotron?have you ever had any experience working on a cyclotron?",
+        "answer": "No"
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable commuting to this job's location?are you comfortable commuting to this job's location?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "disability statusdisability status",
+        "answer": "No, I do not have a disability and have not had one in the past"
+    },
+    {
+        "type": "dropdown",
+        "question": "veteran statusveteran status",
+        "answer": "I am not a protected veteran"
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable commuting to this job's location?are you comfortable commuting to this job's location?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "address",
+        "answer": "100 Cannonbury ct"
+    },
+    {
+        "type": "textbox",
+        "question": "address",
+        "answer": "100 Cannonbury ct"
+    },
+    {
+        "type": "textbox",
+        "question": "summary",
+        "answer": "I am excited to apply for the Development Engineer position at TMEIC Corporation. With a Bachelor\u2019s degree in Computer Science and two years of experience as a Senior Software Engineer at Capgemini, I am eager to leverage my technical skills and innovative mindset to contribute to your mission of delivering advanced automation and power converter technologies. My career objective aligns perfectly with TMEIC\u2019s commitment to client focus and continuous improvement, and I am particularly drawn to your emphasis on integrity and teamwork.\n\nIn my previous role, I successfully drove the development of over 15 application reports and enhanced productivity by 80% through process improvements and automation. My experience with Java, Spring Boot, and AWS has equipped me with a solid foundation in engineering design and project execution. Additionally, my collaborative approach allowed me to work effectively with cross-functional teams, ensuring the successful integration of new technologies that meet client needs. I am also adept at providing technical support and training, which I believe will be valuable in fostering knowledge transfer within your engineering teams.\n\nI am truly inspired by TMEIC\u2019s innovative spirit and dedication to excellence. I am confident that my background in software engineering, coupled with my passion for technology, makes me a strong fit for this role. I look forward to the opportunity to discuss how I can contribute to the continued success of TMEIC Corporation."
+    },
+    {
+        "type": "dropdown",
+        "question": "how did you hear about us?how did you hear about us?",
+        "answer": "Career Fair"
+    },
+    {
+        "type": "textbox",
+        "question": "please specify employee name, recruiter/agency or other",
+        "answer": "Naveen Kumar Lakkaram"
+    },
+    {
+        "type": "radio",
+        "question": "did you provide completed information for all previous employers, during at least the last 120 months and at least the last 3 employers, whichever is longer, including self-employment, military service, summer, and part-time jobs. please list the specific duties that are most applicable to the position for which you are applying. please explain any gap in employment that exceeds 1 months, for example attending school. please do not indicate see resume.did you provide completed information for all previous employers, during at least the last 120 months and at least the last 3 employers, whichever is longer, including self-employment, military service, summer, and part-time jobs. please list the specific duties that are most applicable to the position for which you are applying. please explain any gap in employment that exceeds 1 months, for example attending school. please do not indicate see resume.requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "reason for leaving or job search?",
+        "answer": "I left for new opportunities and to further my career in software engineering and machine learning."
+    },
+    {
+        "type": "textbox",
+        "question": "what is your required annual compensation?",
+        "answer": "60000."
+    },
+    {
+        "type": "dropdown",
+        "question": "what is your highest level of degree achieved?what is your highest level of degree achieved?",
+        "answer": "Bachelors"
+    },
+    {
+        "type": "textbox",
+        "question": "cover letter",
+        "answer": "I am excited to apply for the Development Engineer position at TMEIC Corporation, as advertised. With a Bachelor\u2019s Degree in Computer Science and extensive experience in software engineering, I am eager to leverage my skills in research, development, and deployment of innovative technologies that align with your mission of delivering exceptional automation and power converter products. My career objective is to contribute to a forward-thinking company like TMEIC that values integrity, client focus, and team orientation.\n\nIn my previous role as a Senior Software Engineer at Capgemini, I successfully drove the creation of over 15 application reports and improved productivity by 80% through process automation. My expertise in solid-state drive systems and my ability to collaborate with cross-functional teams have equipped me with the innovative problem-solving skills necessary to identify and incorporate new technologies into product offerings. Additionally, my hands-on experience with AWS and various programming frameworks has honed my technical consulting abilities, which I believe will be beneficial in supporting your sales team and ensuring successful project execution.\n\nI am particularly impressed by TMEIC's commitment to continuous improvement and its focus on providing differentiated solutions to clients. I am eager to bring my technical knowledge and collaborative spirit to your team, contributing to projects that not only meet but exceed client expectations. I look forward to the opportunity to discuss how my background and skills can align with the goals of TMEIC Corporation."
+    },
+    {
+        "type": "textbox",
+        "question": "summary",
+        "answer": "I am excited to apply for the Development Engineer position at TMEIC Corporation, as advertised. With a Bachelor\u2019s degree in Computer Science and extensive experience in software engineering, I am eager to leverage my skills in research and development to contribute to innovative product solutions that align with TMEIC\u2019s commitment to integrity and client focus. My background in developing automation and power converter products positions me well to identify and implement new technologies that meet client needs and enhance operational efficiency.\n\nDuring my tenure as a Senior Software Engineer at Capgemini, I led projects that significantly improved application performance and reduced operational costs. For instance, I enhanced productivity by 80% through process automation and migrated legacy systems to modern technologies, which speaks to my innovative problem-solving skills. Additionally, my experience in collaborating with cross-functional teams has honed my ability to communicate complex technical concepts effectively, ensuring successful project execution and client satisfaction.\n\nI am particularly drawn to TMEIC\u2019s mission of delivering advanced technology solutions that differentiate the company in a competitive landscape. I am confident that my technical expertise, coupled with my passion for continuous improvement and teamwork, makes me a strong fit for this role. I look forward to the opportunity to discuss how my background and skills can contribute to the success of TMEIC Corporation."
+    },
+    {
+        "type": "dropdown",
+        "question": "how did you hear about us?how did you hear about us?",
+        "answer": "Careers Website"
+    },
+    {
+        "type": "textbox",
+        "question": "please specify employee name, recruiter/agency or other",
+        "answer": "Naveen Kumar Lakkaram"
+    },
+    {
+        "type": "radio",
+        "question": "did you provide completed information for all previous employers, during at least the last 120 months and at least the last 3 employers, whichever is longer, including self-employment, military service, summer, and part-time jobs. please list the specific duties that are most applicable to the position for which you are applying. please explain any gap in employment that exceeds 1 months, for example attending school. please do not indicate see resume.did you provide completed information for all previous employers, during at least the last 120 months and at least the last 3 employers, whichever is longer, including self-employment, military service, summer, and part-time jobs. please list the specific duties that are most applicable to the position for which you are applying. please explain any gap in employment that exceeds 1 months, for example attending school. please do not indicate see resume.requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "reason for leaving or job search?",
+        "answer": "I left for new opportunities to grow and expand my skills in a dynamic environment."
+    },
+    {
+        "type": "textbox",
+        "question": "what is your required annual compensation?",
+        "answer": "60000."
+    },
+    {
+        "type": "dropdown",
+        "question": "what is your highest level of degree achieved?what is your highest level of degree achieved?",
+        "answer": "Bachelors"
+    },
+    {
+        "type": "textbox",
+        "question": "cover letter",
+        "answer": "I am excited to apply for the Development Engineer position at TMEIC Corporation, as advertised. With a Bachelor\u2019s degree in Computer Science and extensive experience in software engineering, I am eager to leverage my technical skills to contribute to your mission of delivering innovative automation and power converter solutions. My career objective aligns perfectly with TMEIC\u2019s commitment to client focus and continuous improvement, and I am particularly drawn to your emphasis on integrity and teamwork.\n\nDuring my tenure as a Senior Software Engineer at Capgemini, I successfully led the development of dynamic web applications and improved system performance by optimizing resources, which resulted in a 30% reduction in page load times. My hands-on experience with technologies such as AWS, Java, and microservices, combined with my ability to collaborate cross-functionally, positions me well to identify and incorporate new technologies that meet client needs and enhance product offerings at TMEIC. Additionally, my internship in machine learning provided me with a solid foundation in innovative problem-solving and technical consulting, skills that I believe will be beneficial in supporting your engineering and commissioning teams.\n\nI am particularly impressed by TMEIC\u2019s focus on pioneering technologies that differentiate your products in the market. I am eager to bring my background in software development and my passion for cutting-edge technology to your team. I look forward to the opportunity to discuss how my skills and experiences align with the goals of TMEIC Corporation and how I can contribute to your continued success."
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with html?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cascading style sheets (css)?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with c#?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with react.js?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with javascript?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with entity framework?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with asp.net web api?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable working in a hybrid setting?are you comfortable working in a hybrid setting?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with powershell?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft azure?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with amazon web services (aws)?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with linux system administration?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with splunk enterprise?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with servicenow?",
+        "answer": 2
+    }
+]
