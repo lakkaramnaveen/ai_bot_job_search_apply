@@ -3,19 +3,19 @@ remote: false
 experienceLevel:
   internship: true
   entry: true
-  associate: true
+  associate: false
   "mid-senior level": false
   director: false
   executive: false
 
 jobTypes:
   "full-time": true
-  contract: false
-  "part-time": false
+  contract: true
+  "part-time": true
   temporary: true
   internship: true
   other: false
-  volunteer: true
+  volunteer: false
 
 date:
   "all time": false
@@ -31,15 +31,36 @@ positions:
   - Full stack developer
   - Java full stack developer
   - Junior Developer
-
+  - Java Software Engineer
+  - Java Web Developer
+  - Java Application Developer
+  - Java Full Stack Developer
+  - Java Backend Developer
+  - Java Frontend Developer
+  - Java Programmer
+  - Java/J2EE Developer
+  - Java Enterprise Developer
+  - Java Microservices Developer
+  - Java Integration Developer
+  - Java Spring Developer
+  - Java Hibernate Developer
+  - Java Cloud Developer
+  - Java Mobile Application Developer
+  - Entry level programmer
+  - Entry level developer
+  - Entry level tester
+  - Python programmer
+  - Python Developer
+  - ML engineer
+  - Junior Devops Engineer
+  - Entry level devops engineer
+  
 locations:
   - USA
 
 distance: 100
 
 companyBlacklist:
-  - Noir
-  - Crossover
 
 titleBlacklist:
-  - Data engineer
+  

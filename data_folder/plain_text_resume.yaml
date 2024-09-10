@@ -18,23 +18,28 @@ education_details:
     graduation_year: "2024"
     field_of_study: "Computer Science"
     exam:
-      Algorithm Analysis and Design: "4"
-      Object-Oriented Languages and Programming: "4"
-      Advance Database: "4"
-      Linear Algebra and Numerical Analysis: "4"
-      Database: "4"
+      Advanced Algorithms: "4"
+      Object-Oriented Programming and Data St: "4"
+      Fundamentals of Database: "4"
+      Software Engineering: "4"
+      Advanced Operating Systems: "4"
 
 experience_details:
   - position: "Senior Software Engineer"
-    company: "Capgemini"
+    company: "Capgemini" 
     employment_period: "10/2020 - 10/2022"
-    location: "India"
+    location: "USA"
     industry: "Software"
     key_responsibilities:
       - description: "Drove the creation of 15+ application reports and a 2-year release calendar, collaborating with agile teams to gather business requirements for a finance client."
       - description: "Reduced application size by 20% and improved debugging ease through the use of Java, Spring Core Annotations, Spring DI, Spring MVC for REST APIs, and Spring Boot for microservices with multi-threading, resolved merge conflicts for 150+ git repositories, server-side development."
       - description: "Enhanced productivity by 80% through process improvements and automation using Jenkins. Migrated legacy code to the latest technology stack using AWS (ECS, Lambda, SNS, API Gateway, EC2, S3 Buckets), React.js, Redux, and Node.js, resulting in a 30% salary hike for team members."
       - description: "Developed and maintained dynamic web applications using Angular and React frameworks, implementing responsive user interfaces with HTML, CSS, Sass, and JavaScript. Reduced page load times by 30% through optimization of JavaScript and CSS resources, enhancing user experience across multiple devices."
+      - description: "I wrote test scripts on Junit and performed integration, regression, and end tests. Resolving deployment issues and extensive work
+                      with Advanced Java, Servlets, and JSP increased efficiency by 15%. (PCF, NexusIQ, Sonarqube, Servicenow, TestNG, Regression tests, Virtual Box, VMWare)"
+      - description: "Boosted advanced security principles and reduced threats for 3+ large-scale applications by implementing multi-factor authentication,
+                      single sign-on, and identity management systems. Multithreading, Annotations, JPA, Hibernate, JMS, Object Oriented Programming, Lambda, Java Stream API."
+                      
     skills_acquired:
       - "Java Full Stack"
       - "Software engineering"
@@ -44,7 +49,7 @@ experience_details:
   - position: "Machine Learning Intern"
     company: "ExpertsHub"
     employment_period: "11/2018 - 11/2018"
-    location: "Hyderabad, India"
+    location: "India"
     industry: "Machine Learning"
     key_responsibilities:
       - description: "Developed a Linear Regression model to provide accurate pricing predictions based on specified features by buyers and sellers."

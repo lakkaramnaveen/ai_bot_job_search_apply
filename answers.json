@@ -242,21 +242,21 @@
     {
         "type": "numeric",
         "question": "how many years of work experience do you have with angular?",
-        "answer": 4
+        "answer": 3
     },
     {
         "type": "numeric",
         "question": "how many years of work experience do you have with node.js?",
-        "answer": 4
+        "answer": 3
     },
     {
         "type": "dropdown",
-        "question": "do you have experience with both frontend and backend development?do you have experience with both frontend and backend development?",
+        "question": "do you have experience with both frontend and backend development? do you have experience with both frontend and backend development?",
         "answer": "Yes"
     },
     {
         "type": "radio",
-        "question": "will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?requiredyesno",
+        "question": "will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)? will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?requiredyesno",
         "answer": "yes"
     },
     {
@@ -277,12 +277,12 @@
     {
         "type": "numeric",
         "question": "how many years of work experience do you have with python (programming language)?",
-        "answer": 4
+        "answer": 3
     },
     {
         "type": "numeric",
         "question": "how many years of work experience do you have with java?",
-        "answer": 4
+        "answer": 3
     },
     {
         "type": "dropdown",
@@ -662,7 +662,7 @@
     {
         "type": "numeric",
         "question": "4+ years of experience in full stack development.",
-        "answer": 6
+        "answer": 4
     },
     {
         "type": "numeric",
@@ -1448,5 +1448,2190 @@
         "type": "numeric",
         "question": "how many years of work experience do you have with servicenow?",
         "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with jquery?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with html5?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "experience in java",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "available to work on fulltime with infosys?available to work on fulltime with infosys?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "available for in person interview (on sep 06) at raleigh, ncavailable for in person interview (on sep 06) at raleigh, nc",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable working in an onsite setting?are you comfortable working in an onsite setting?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you legally authorized to work in the united states? and will you now, or in the future, not require sponsorship for employment visa?are you legally authorized to work in the united states? and will you now, or in the future, not require sponsorship for employment visa?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed the following level of education: [bachelor of science - it/ cs]?have you completed the following level of education: [bachelor of science - it/ cs]?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "this is a consulting job are you ok with it?this is a consulting job are you ok with it?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with github?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have previous experience with control systems design and implementation?do you have previous experience with control systems design and implementation?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you within commutable distance of licking county, oh?are you within commutable distance of licking county, oh?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable working in an onsite setting?are you comfortable working in an onsite setting?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with swift (programming language)?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you legally authorized to work in the united states? and will you now, or in the future, not require sponsorship for employment visa?are you legally authorized to work in the united states? and will you now, or in the future, not require sponsorship for employment visa?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed the following level of education: [bachelor of science - it/ cs]?have you completed the following level of education: [bachelor of science - it/ cs]?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "this is a consulting job are you ok with it?this is a consulting job are you ok with it?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of analyst experience do you currently have?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with databases?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "available to work on fulltime with infosys?available to work on fulltime with infosys?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "experience in .net",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "experience in angular",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "what are your compensation requirements?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "what is the highest level of education you have obtained?what is the highest level of education you have obtained?",
+        "answer": "College - Bachelor of Science"
+    },
+    {
+        "type": "textbox",
+        "question": "if you were referred by a resource innovations employee, please add their name here.",
+        "answer": "Not applicable."
+    },
+    {
+        "type": "radio",
+        "question": "will you now or in the future require visa sponsorship?will you now or in the future require visa sponsorship?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you have 4+ years of previous experience building software utilizing php frameworks, laravel or others, built using knowledge of object-oriented programming?do you have 4+ years of previous experience building software utilizing php frameworks, laravel or others, built using knowledge of object-oriented programming?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "3+ years of previous experience building software utilizing vue (preferred) or similar js frameworks to deliver engaging and interactive interfaces that connect to api based backends3+ years of previous experience building software utilizing vue (preferred) or similar js frameworks to deliver engaging and interactive interfaces that connect to api based backendsrequiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "experience with server administration and awsexperience with server administration and awsrequiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "demonstrable experience writing testable code with some usage of php unitdemonstrable experience writing testable code with some usage of php unitrequiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "experience in designing and implementing stable apis and servicesexperience in designing and implementing stable apis and servicesrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "worked within multiple types of databases, relational and non-relationalworked within multiple types of databases, relational and non-relationalrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "experience using problem solving skills without being afraid of diving in and working out a problemexperience using problem solving skills without being afraid of diving in and working out a problemrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "proficient verbal and written communication skills in english with proven ability to effectively communicate at all levelsproficient verbal and written communication skills in english with proven ability to effectively communicate at all levelsrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "personal responsibility and self-motivation with flexibility to adapt and maintain productivity, feature set and stabilitypersonal responsibility and self-motivation with flexibility to adapt and maintain productivity, feature set and stabilityrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "knowledge of working within a team-based environment and with others to design, develop and deliver softwareknowledge of working within a team-based environment and with others to design, develop and deliver softwarerequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "a bachelor's degree in computer science or related field is preferred.a bachelor's degree in computer science or related field is preferred.requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "gendergendermalefemalei prefer not to specify",
+        "answer": "male"
+    },
+    {
+        "type": "textbox",
+        "question": "what is your preferred name? (if different than your legal name)",
+        "answer": "Naveen"
+    },
+    {
+        "type": "radio",
+        "question": "this position involves working on a contract for the us government. the us government requires us citizenship for this position. *this position cannot support a work visa or green card status. providing false information regarding your us citizenship status on this application will result in your application being rejected for this opportunity. can you meet this requirement? this position involves working on a contract for the us government. the us government requires us citizenship for this position. *this position cannot support a work visa or green card status. providing false information regarding your us citizenship status on this application will result in your application being rejected for this opportunity. can you meet this requirement?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "if you currently hold a clearance, please indicate which security clearance you currently hold:if you currently hold a clearance, please indicate which security clearance you currently hold:requirednoneatfcbpcftcdhssecrettop secretdoeddosicepublic trusttsausda fnsother",
+        "answer": "none"
+    },
+    {
+        "type": "radio",
+        "question": "do you have a minimum of 1 year of professional experience in a development environment? do you have a minimum of 1 year of professional experience in a development environment?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you have a bachelor's degree or higher-level degree?do you have a bachelor's degree or higher-level degree?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "have you used react in any of your previous work positions?have you used react in any of your previous work positions?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "please describe how you have used aws. what aws services have you worked with?",
+        "answer": "I used AWS services like ECS, Lambda, SNS, API Gateway, EC2, and S3 Buckets for migrating legacy code and enhancing applications."
+    },
+    {
+        "type": "textbox",
+        "question": "please provide your salary expectations for this role.",
+        "answer": "60000."
+    },
+    {
+        "type": "textbox",
+        "question": "please list all your active professional certifications.",
+        "answer": "I am OCI Gen AI Certified Professional."
+    },
+    {
+        "type": "radio",
+        "question": "you may be required to come to our reston, va headquarters for an in-person interview. are you able to meet this requirement?you may be required to come to our reston, va headquarters for an in-person interview. are you able to meet this requirement?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "please acknowledge the following: all new hires are asked to come onsite to our reston, va headquarters for orientation. are you able to meet this requirement?please acknowledge the following: all new hires are asked to come onsite to our reston, va headquarters for orientation. are you able to meet this requirement?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "fully remote position candidates must have a primary address in one of the following states: al, ar, az, co, dc, fl, ga, id, il, in, md, ma, me, mi, mn, mo, ms, nc, nj, or, pa, sc, tn, tx, va, wv. can you meet this requirement? fully remote position candidates must have a primary address in one of the following states: al, ar, az, co, dc, fl, ga, id, il, in, md, ma, me, mi, mn, mo, ms, nc, nj, or, pa, sc, tn, tx, va, wv. can you meet this requirement?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "if no, are you willing to relocate to one of the above locations: if no, are you willing to relocate to one of the above locations:yesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "street address",
+        "answer": "100 Cannonbury ct"
+    },
+    {
+        "type": "textbox",
+        "question": "street address (optional second line)",
+        "answer": "100 Cannonbury ct"
+    },
+    {
+        "type": "textbox",
+        "question": "city",
+        "answer": "Dayton"
+    },
+    {
+        "type": "dropdown",
+        "question": "statestate",
+        "answer": "Ohio"
+    },
+    {
+        "type": "textbox",
+        "question": "zip",
+        "answer": "Not provided"
+    },
+    {
+        "type": "textbox",
+        "question": "please tell us more about your application journey. if you applied through our website, please let us know where you first saw our job ad.",
+        "answer": "I am excited to apply for the Junior Full Stack React/Node.js Developer position at Dev Technology. With a Bachelor's degree in Computer Science and over two years of professional experience as a Senior Software Engineer, I have honed my skills in full stack application development, particularly with React and Node.js. My career objective aligns perfectly with your mission of driving client success through innovative technology solutions, and I am eager to contribute to your projects that support federal government initiatives.\n\nDuring my tenure at Capgemini, I successfully migrated legacy applications to modern technologies using AWS and implemented responsive user interfaces with React.js and Angular, which improved user experience and productivity significantly. My experience with Agile methodologies has equipped me with the ability to collaborate effectively with cross-functional teams, ensuring that client needs are met while continuously learning and adapting to new technologies. Additionally, my hands-on projects, such as developing a full-stack application that reduced processing time by 30%, demonstrate my commitment to delivering quality solutions.\n\nI am particularly drawn to Dev Technology's employee-centric culture and focus on community engagement, which resonates with my values of collaboration and social responsibility. I am confident that my technical skills, combined with my passion for solving complex software challenges, make me a strong fit for your team. I look forward to the opportunity to discuss how I can contribute to your mission and support your clients effectively."
+    },
+    {
+        "type": "radio",
+        "question": "by selecting yes, you agree to receive mobile messages from us in relation to this job application. message frequency varies. message and data rates may apply. reply stop to opt-out of future messaging. reply help for help. view our privacy & sms policy at the bottom of our job postings at www.devtechnology.com/careers.by selecting yes, you agree to receive mobile messages from us in relation to this job application. message frequency varies. message and data rates may apply. reply stop to opt-out of future messaging. reply help for help. view our privacy & sms policy at the bottom of our job postings at www.devtechnology.com/careers.requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "what are your compensation requirements?",
+        "answer": 80
+    },
+    {
+        "type": "dropdown",
+        "question": "what is the highest level of education you have obtained?what is the highest level of education you have obtained?",
+        "answer": "College - Bachelor of Science"
+    },
+    {
+        "type": "textbox",
+        "question": "if you were referred by a resource innovations employee, please add their name here.",
+        "answer": "Not applicable."
+    },
+    {
+        "type": "radio",
+        "question": "will you now or in the future require visa sponsorship?will you now or in the future require visa sponsorship?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you have 4+ years of previous experience building software utilizing php frameworks, laravel or others, built using knowledge of object-oriented programming?do you have 4+ years of previous experience building software utilizing php frameworks, laravel or others, built using knowledge of object-oriented programming?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "3+ years of previous experience building software utilizing vue (preferred) or similar js frameworks to deliver engaging and interactive interfaces that connect to api based backends3+ years of previous experience building software utilizing vue (preferred) or similar js frameworks to deliver engaging and interactive interfaces that connect to api based backendsrequiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "experience with server administration and awsexperience with server administration and awsrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "demonstrable experience writing testable code with some usage of php unitdemonstrable experience writing testable code with some usage of php unitrequiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "experience in designing and implementing stable apis and servicesexperience in designing and implementing stable apis and servicesrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "worked within multiple types of databases, relational and non-relationalworked within multiple types of databases, relational and non-relationalrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "experience using problem solving skills without being afraid of diving in and working out a problemexperience using problem solving skills without being afraid of diving in and working out a problemrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "proficient verbal and written communication skills in english with proven ability to effectively communicate at all levelsproficient verbal and written communication skills in english with proven ability to effectively communicate at all levelsrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "personal responsibility and self-motivation with flexibility to adapt and maintain productivity, feature set and stabilitypersonal responsibility and self-motivation with flexibility to adapt and maintain productivity, feature set and stabilityrequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "knowledge of working within a team-based environment and with others to design, develop and deliver softwareknowledge of working within a team-based environment and with others to design, develop and deliver softwarerequiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "a bachelor's degree in computer science or related field is preferred.a bachelor's degree in computer science or related field is preferred.requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with php?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with restful architecture?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "will you be interested in consulting-based jobs? will you be interested in consulting-based jobs?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us. are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.",
+        "answer": "Yes"
+    },
+    {
+        "type": "radio",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us. are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "will you be interested in consulting-based jobs? will you be interested in consulting-based jobs?",
+        "answer": "Yes"
+    },
+    {
+        "type": "radio",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of information technology experience do you currently have?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "are you willing to relocate to atlanta, ga for the 8 weeks training program and all over the us for the projects?are you willing to relocate to atlanta, ga for the 8 weeks training program and all over the us for the projects?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "what is the best time and date for a recruiter to reach out to you to discuss the potential opportunity?.what is the best time and date for a recruiter to reach out to you to discuss the potential opportunity?.",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have any experience with azure or cloud technologies? do you have any experience with azure or cloud technologies?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "what is your visa status? (usc / green card holder)what is your visa status? (usc / green card holder)",
+        "answer": "No"
+    },
+    {
+        "type": "radio",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us. are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "will you be interested in consulting-based jobs? will you be interested in consulting-based jobs?",
+        "answer": "Yes"
+    },
+    {
+        "type": "radio",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable working in an onsite setting?are you comfortable working in an onsite setting?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you legally authorized to work in the united states? and will you now, or in the future, not require sponsorship for employment visa?are you legally authorized to work in the united states? and will you now, or in the future, not require sponsorship for employment visa?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed the following level of education: [bachelor of science - it/ cs]?have you completed the following level of education: [bachelor of science - it/ cs]?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "this is a consulting job are you ok with it?this is a consulting job are you ok with it?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable working in an onsite setting?are you comfortable working in an onsite setting?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you legally authorized to work in the united states? and will you now, or in the future, not require sponsorship for employment visa?are you legally authorized to work in the united states? and will you now, or in the future, not require sponsorship for employment visa?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed the following level of education: [bachelor of science - it/ cs]?have you completed the following level of education: [bachelor of science - it/ cs]?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "this is a consulting job are you ok with it?this is a consulting job are you ok with it?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us. are you available for relocation across usa? as the training location will be atlanta, georgia and project location will be anywhere in us.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "will you be interested in consulting-based jobs? will you be interested in consulting-based jobs?",
+        "answer": "Yes"
+    },
+    {
+        "type": "radio",
+        "question": "we must fill this position urgently. can you start immediately?we must fill this position urgently. can you start immediately?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have an active ts/sci government clearance? do you have an active ts/sci government clearance?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you a us citizen?are you a us citizen?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with kubernetes?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with docker products?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you live in nebraska or a neighboring state?do you live in nebraska or a neighboring state?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with wordpress?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have photoshop experience?do you have photoshop experience?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have with html, css, and javascript?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "are you currently pursuing or have you already acquired a bachelor's degree?are you currently pursuing or have you already acquired a bachelor's degree?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with vue.js?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with rest apis?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with representational state transfer (rest)?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "do you already live in new york city or in a 15miles radius from manhattan?do you already live in new york city or in a 15miles radius from manhattan?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have a computer science degree?do you have a computer science degree?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of software development experience do you currently have?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "have you ever worked on ubuntu kernel and built purpose built appliancehave you ever worked on ubuntu kernel and built purpose built appliance",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many year experience do you have with web development using: php, jquery, mysql, ms sql?",
+        "answer": 1
+    },
+    {
+        "type": "numeric",
+        "question": "are you familiar with laravel framework, docker, amazon aws ec2, and s3 and how many years experience?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "what is your level of proficiency in english?what is your level of proficiency in english?",
+        "answer": "Native or bilingual"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with vector canalyzer?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with electronic control systems?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with embedded software?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with typescript?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with web development?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience creating portal webpages?do you have experience creating portal webpages?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you located in portland, oregon or willing to relocate?are you located in portland, oregon or willing to relocate?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of wordpress website development experience do you have?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "what is your requested salary for this w2 opportunity?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "c\u00f3digo do pa\u00edsc\u00f3digo do pa\u00eds",
+        "answer": "Estados Unidos (+1)"
+    },
+    {
+        "type": "dropdown",
+        "question": "c\u00f3digo do pa\u00edsc\u00f3digo do pa\u00eds",
+        "answer": "Estados Unidos (+1)"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with mysql?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sharepoint?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft power apps?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sharepoint framework (spfx)?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "apply only if you are comfortable working on w2 contract.apply only if you are comfortable working on w2 contract.",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cisco systems products?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with fortinet?",
+        "answer": 2
+    },
+    {
+        "type": "textbox",
+        "question": "middle name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "textbox",
+        "question": "middle name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with .net framework?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with programming languages?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with relational databases?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with computer aided dispatch?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have the ability to obtain a security clearance? do you have the ability to obtain a security clearance?",
+        "answer": "No"
+    },
+    {
+        "type": "textbox",
+        "question": "middle name",
+        "answer": "Naveen"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with linux?",
+        "answer": 4
+    },
+    {
+        "type": "radio",
+        "question": "do you have the following license or certification: electrical systems?do you have the following license or certification: electrical systems?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with ethernet?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with network administration?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with controller area network (can)?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "can work on a w2?can work on a w2?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with restful webservices?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with core java?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of financial services experience do you currently have?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "this is only w2; can you work on w2this is only w2; can you work on w2",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with computer vision?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with deep learning?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with algorithms?",
+        "answer": 4
+    },
+    {
+        "type": "radio",
+        "question": "do you have (or have a history/record of having) a disability? (definitions)do you have (or have a history/record of having) a disability?requiredyes, i have a disability, or have had one in the past.no, i do not have a disability and have not had one in the past.i do not want to answer.",
+        "answer": "no, i do not have a disability and have not had one in the past."
+    },
+    {
+        "type": "radio",
+        "question": "are you a protected veteran? (definitions)are you a protected veteran?requiredyesnoprefer not to answer",
+        "answer": "no"
+    },
+    {
+        "type": "dropdown",
+        "question": "gender - gender, race and ethnicity (definitions)gender - gender, race and ethnicity",
+        "answer": "Male"
+    },
+    {
+        "type": "dropdown",
+        "question": "race/ethnicity - gender, race and ethnicity (definitions)race/ethnicity - gender, race and ethnicity",
+        "answer": "Asian"
+    },
+    {
+        "type": "radio",
+        "question": "do you have (or have a history/record of having) a disability? (definitions)do you have (or have a history/record of having) a disability?requiredyes, i have a disability, or have had one in the past.no, i do not have a disability and have not had one in the past.i do not want to answer.",
+        "answer": "no, i do not have a disability and have not had one in the past."
+    },
+    {
+        "type": "radio",
+        "question": "are you a protected veteran? (definitions)are you a protected veteran?requiredyesnoprefer not to answer",
+        "answer": "no"
+    },
+    {
+        "type": "dropdown",
+        "question": "gender - gender, race and ethnicity (definitions)gender - gender, race and ethnicity",
+        "answer": "Male"
+    },
+    {
+        "type": "dropdown",
+        "question": "race/ethnicity - gender, race and ethnicity (definitions)race/ethnicity - gender, race and ethnicity",
+        "answer": "Asian"
+    },
+    {
+        "type": "radio",
+        "question": "do you have (or have a history/record of having) a disability? (definitions)do you have (or have a history/record of having) a disability?requiredyes, i have a disability, or have had one in the past.no, i do not have a disability and have not had one in the past.i do not want to answer.",
+        "answer": "no, i do not have a disability and have not had one in the past."
+    },
+    {
+        "type": "radio",
+        "question": "are you a protected veteran? (definitions)are you a protected veteran?requiredyesnoprefer not to answer",
+        "answer": "no"
+    },
+    {
+        "type": "dropdown",
+        "question": "gender - gender, race and ethnicity (definitions)gender - gender, race and ethnicity",
+        "answer": "Male"
+    },
+    {
+        "type": "dropdown",
+        "question": "race/ethnicity - gender, race and ethnicity (definitions)race/ethnicity - gender, race and ethnicity",
+        "answer": "Asian"
+    },
+    {
+        "type": "radio",
+        "question": "do you have (or have a history/record of having) a disability? (definitions)do you have (or have a history/record of having) a disability?requiredyes, i have a disability, or have had one in the past.no, i do not have a disability and have not had one in the past.i do not want to answer.",
+        "answer": "no, i do not have a disability and have not had one in the past."
+    },
+    {
+        "type": "radio",
+        "question": "are you a protected veteran? (definitions)are you a protected veteran?requiredyesnoprefer not to answer",
+        "answer": "no"
+    },
+    {
+        "type": "dropdown",
+        "question": "gender - gender, race and ethnicity (definitions)gender - gender, race and ethnicity",
+        "answer": "Male"
+    },
+    {
+        "type": "dropdown",
+        "question": "race/ethnicity - gender, race and ethnicity (definitions)race/ethnicity - gender, race and ethnicity",
+        "answer": "Asian"
+    },
+    {
+        "type": "radio",
+        "question": "do you have (or have a history/record of having) a disability? (definitions)do you have (or have a history/record of having) a disability?requiredyes, i have a disability, or have had one in the past.no, i do not have a disability and have not had one in the past.i do not want to answer.",
+        "answer": "no, i do not have a disability and have not had one in the past."
+    },
+    {
+        "type": "radio",
+        "question": "are you a protected veteran? (definitions)are you a protected veteran?requiredyesnoprefer not to answer",
+        "answer": "no"
+    },
+    {
+        "type": "dropdown",
+        "question": "gender - gender, race and ethnicity (definitions)gender - gender, race and ethnicity",
+        "answer": "Male"
+    },
+    {
+        "type": "dropdown",
+        "question": "race/ethnicity - gender, race and ethnicity (definitions)race/ethnicity - gender, race and ethnicity",
+        "answer": "Asian"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with database administration?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "are you physically present in the united states?are you physically present in the united states?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have 1 + years with shopifydo you have 1 + years with shopify",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with blazor?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "if employed and under the age of 18, can you provide a work permit?if employed and under the age of 18, can you provide a work permit?",
+        "answer": "No"
+    },
+    {
+        "type": "radio",
+        "question": "are you authorized to work in the united states?are you authorized to work in the united states?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "this position requires in-office attendance at the location listed in the job description. are you willing to relocate or are you within a commutable distance?this position requires in-office attendance at the location listed in the job description. are you willing to relocate or are you within a commutable distance?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "your message to the hiring manager",
+        "answer": "I am excited to apply for the Software Engineer position at SOCOTEC, where I can leverage my background in software development and machine learning to contribute to your mission of enhancing user experiences and optimizing processes. With a Bachelor's Degree in Computer Science and experience as a Senior Software Engineer at Capgemini, I have honed my skills in developing scalable solutions and collaborating with cross-functional teams to address complex challenges. My goal aligns perfectly with SOCOTEC\u2019s commitment to providing best-in-class consulting services, and I am eager to be a part of a company recognized for its exceptional workplace culture.\n\nIn my previous role, I successfully led the development of dynamic web applications using React and implemented process improvements that enhanced productivity by 80%. My hands-on experience with AWS and my proficiency in programming languages such as JavaScript and Python equip me to architect robust client-side and server-side structures. Additionally, my internship focused on machine learning, where I fine-tuned pre-trained models and developed custom algorithms, aligns well with your preference for candidates experienced in ML and chatbot development.\n\nI am particularly drawn to SOCOTEC\u2019s holistic approach to sustainability and energy efficiency, as these values resonate with my passion for innovative technology solutions. I am excited about the opportunity to contribute to cutting-edge projects and collaborate with a team that prioritizes mentorship and growth. I look forward to discussing how my technical skills and proactive mindset can align with SOCOTEC\u2019s goals and contribute to your continued success."
+    },
+    {
+        "type": "radio",
+        "question": "are you willing to take a drug test, in accordance with local law/regulations?are you willing to take a drug test, in accordance with local law/regulations?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "have you completed the following level of education: master's degree?have you completed the following level of education: master's degree?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with pytorch?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with .net?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with api development?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sql server integration services (ssis)?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft access?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of truck transportation experience do you currently have?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "north carolinanorth carolinarequiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "textbox",
+        "question": "what is your desired salary?",
+        "answer": "60000."
+    },
+    {
+        "type": "dropdown",
+        "question": "are you legally authorized to work in the u.s?are you legally authorized to work in the u.s?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "will you now or in the future require sponsorship for employment visa status (e.g., h1b)?will you now or in the future require sponsorship for employment visa status (e.g., h1b)?",
+        "answer": "Yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you have the following license or certification: 3rd class engineer?do you have the following license or certification: 3rd class engineer?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "do you have the following license or certification: certified pool & spa operator (cpo)?do you have the following license or certification: certified pool & spa operator (cpo)?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with citrix products?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft outlook?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with webex?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you willing to relocate?are you willing to relocate?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with vehicle operations?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with inventory?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available to work a flexible schedule to support customers on nights, weekends and/or holidays?are you available to work a flexible schedule to support customers on nights, weekends and/or holidays?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with autocad?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with revit?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with ipython?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you live in a commutable distance to dallas tx and open to a fully onsite role?do you live in a commutable distance to dallas tx and open to a fully onsite role?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with kotlin?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "open only for w2, no c2c or 1099.open only for w2, no c2c or 1099.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "if you are located in phoenix, az/new york city/fort lauderdale, fl, then only apply. relocation is not considered.if you are located in phoenix, az/new york city/fort lauderdale, fl, then only apply. relocation is not considered.",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microservices?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "are you looking to work on c2c?are you looking to work on c2c?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable to work on pinnacle's w2?are you comfortable to work on pinnacle's w2?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with spring framework?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with spring boot?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with kafka?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have knowledge/experience working with mongo db?do you have knowledge/experience working with mongo db?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you currently on stem opt or initial opt?are you currently on stem opt or initial opt?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you legally authorized to work in the united states?are you legally authorized to work in the united states?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of professional work experience do you have with java?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with java application development?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with oracle database?",
+        "answer": 2
+    },
+    {
+        "type": "textbox",
+        "question": "linkedin profile",
+        "answer": "https://www.linkedin.com/in/lakkaramnaveen"
+    },
+    {
+        "type": "textbox",
+        "question": "website",
+        "answer": "https://github.com/lakkaramnaveen"
+    },
+    {
+        "type": "dropdown",
+        "question": "security clearancesecurity clearance",
+        "answer": "None"
+    },
+    {
+        "type": "radio",
+        "question": "are you able to meet the requirements to obtain a secret clearance? ***note: this includes us citizenship.are you able to meet the requirements to obtain a secret clearance? ***note: this includes us citizenship.requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "are you willing/able to be on site in reston, va 2-3 days/week? are you willing/able to be on site in reston, va 2-3 days/week?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you have a bachelor's degree (or higher) in computer science or similar it related field?do you have a bachelor's degree (or higher) in computer science or similar it related field?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with terraform?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you possess a bachelors degree in computer science or related field? do you possess a bachelors degree in computer science or related field?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have in a software engineering role?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you require relocation to the austin, tx area for this opportunity?do you require relocation to the austin, tx area for this opportunity?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "what are your compensation expectations for this position?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with nosql?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with computer numerical control (cnc)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with machine tools?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cad/cam software?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sql database design?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with full-stack development?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with java enterprise architecture?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with object-oriented programming (oop)?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with react native?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you physically located in the united states?are you physically located in the united states?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with redux.js?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "do you currently live in the tulsa metro area (tulsa, bixby, jenks, ba etc)do you currently live in the tulsa metro area (tulsa, bixby, jenks, ba etc)",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you ever created a website?have you ever created a website?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with wordpress?do you have experience with wordpress?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "have you ever used divi with wordpress?have you ever used divi with wordpress?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have copywriting experience?do you have copywriting experience?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with ui / ux design?do you have experience with ui / ux design?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many wordpress websites have you ever created?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with mongodb?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with test execution?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with software testing?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with git?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with go (programming language)?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with tailwind css? do you have experience with tailwind css?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you able to work in-house within our sf officesare you able to work in-house within our sf offices",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "stack ai is unable to sponsor h1b visas. are you a us citizen, greencard holder, or us permanent resident? stack ai is unable to sponsor h1b visas. are you a us citizen, greencard holder, or us permanent resident?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with xml?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with tomcat?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "4 years microsoft sql server?4 years microsoft sql server?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "4 years systems integration and/or development experience using python?4 years systems integration and/or development experience using python?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "4 years experience with api's?4 years experience with api's?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "expert knowledge of erp project management and it functions? expert knowledge of erp project management and it functions?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "expert knowledge of microsoft dynamics gp?expert knowledge of microsoft dynamics gp?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "ability to supervise, support, and motivate team members?ability to supervise, support, and motivate team members?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "api integration ? api integration ?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "please confirm your active secret clearance:please confirm your active secret clearance:",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with aws?do you have experience with aws?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have as a full stack developer?",
+        "answer": 4
+    },
+    {
+        "type": "radio",
+        "question": "have you completed the following level of education: doctor of philosophy?have you completed the following level of education: doctor of philosophy?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with object oriented design?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of mssql or oracle experience do you have?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with manufacturing systems?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with technical operations?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of biotechnology research experience do you currently have?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of pharmaceutical manufacturing experience do you currently have?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of medical equipment manufacturing experience do you currently have?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with r (programming language)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with it service management?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable working 5 days a week from the san diego office location? are you comfortable working 5 days a week from the san diego office location?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "candidate must live in the service area (idaho) in order to meet customer needs on site as required. can you confirm you currently reside in the service area?candidate must live in the service area (idaho) in order to meet customer needs on site as required. can you confirm you currently reside in the service area?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable in working onsite in new york ny , or cary nc or jacksonville fl?are you comfortable in working onsite in new york ny , or cary nc or jacksonville fl?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you one among usc or gc or gc ead ?are you one among usc or gc or gc ead ?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you willing to travel 30% of the time?are you willing to travel 30% of the time?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of appliances, electrical, and electronics manufacturing experience do you currently have?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with application engineering?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "do you live in new york city (or are you willing to relocate)?do you live in new york city (or are you willing to relocate)?",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "i sent an email to will@donoratlas.com to express actual, thoughtful interest :)i sent an email to will@donoratlas.com to express actual, thoughtful interest :)",
+        "answer": "Yes"
+    },
+    {
+        "type": "textbox",
+        "question": "state or province",
+        "answer": "Not provided"
+    },
+    {
+        "type": "textbox",
+        "question": "zip/postal code",
+        "answer": "Not provided"
+    },
+    {
+        "type": "textbox",
+        "question": "country",
+        "answer": "USA"
+    },
+    {
+        "type": "textbox",
+        "question": "primary phone number",
+        "answer": "4695401361"
+    },
+    {
+        "type": "radio",
+        "question": "typetyperequiredmobilehomeworkother",
+        "answer": "mobile"
+    },
+    {
+        "type": "textbox",
+        "question": "secondary phone number",
+        "answer": "Not provided"
+    },
+    {
+        "type": "radio",
+        "question": "typetypemobilehomeworkother",
+        "answer": "mobile"
+    },
+    {
+        "type": "radio",
+        "question": "are you authorized to work in the us without a sponsor visa?are you authorized to work in the us without a sponsor visa?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have data analysis experience?do you have data analysis experience?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with it operations?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with file transfer?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with cybersecurity?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with inform itm (integrated trial management) system?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "you must be located in lansing, grand rapids, or traverse city, michigan, to be considered for this role. do you reside or are you able to commute to one of these locations everyday? you must be located in lansing, grand rapids, or traverse city, michigan, to be considered for this role. do you reside or are you able to commute to one of these locations everyday?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have using duck creek?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with android development?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with mobile application development?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of professional product security engineering experience do you possess?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with software development life cycle (sdlc)?",
+        "answer": 4
+    },
+    {
+        "type": "radio",
+        "question": "do you have the following license or certification: certified cloud security professional?do you have the following license or certification: certified cloud security professional?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with transact-sql (t-sql)?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "this is an on-site position, are you able to work on-site at patuxent river naval base, md? relocation assistance is not offered.this is an on-site position, are you able to work on-site at patuxent river naval base, md? relocation assistance is not offered.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you hold a bachelor's degree or higher?do you hold a bachelor's degree or higher?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you a u.s citizen with the ability to obtain/maintain a dod security clearance? are you a u.s citizen with the ability to obtain/maintain a dod security clearance?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of professional, full-time experience do you have within automotive or robotics software development programs?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you comfortable working in a customer-facing, technical expert but non-coding role?are you comfortable working in a customer-facing, technical expert but non-coding role?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "expectation pay rate",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of technology, information and internet experience do you currently have?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "have you completed the following level of education: bachelor's degree in stem (science, technology, engineering, and mathematics)?have you completed the following level of education: bachelor's degree in stem (science, technology, engineering, and mathematics)?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience as a system/it infrastructure engineer do you have?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sql database administration?",
+        "answer": 4
+    },
+    {
+        "type": "dropdown",
+        "question": "are you located in louisville, ky?are you located in louisville, ky?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with snowflake?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "do you live in new jersey and have a vehicle to commute?do you live in new jersey and have a vehicle to commute?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with animation?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with test automation frameworks?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with continuous integration and continuous delivery (ci/cd)?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "due to robot applicant, what is 50 x 100 + 50?",
+        "answer": 5000
+    },
+    {
+        "type": "dropdown",
+        "question": "will you now, or in the future, require sponsorship for employment visa status?will you now, or in the future, require sponsorship for employment visa status?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "are you available for relocation across usa? as the training location will be atlanta, georgia for 8 weeks and project location will be anywhere in us.are you available for relocation across usa? as the training location will be atlanta, georgia for 8 weeks and project location will be anywhere in us.",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you have experience with golang? do you have experience with golang?",
+        "answer": "No"
+    },
+    {
+        "type": "radio",
+        "question": "do you live within 50 miles of nashville and/or planning to relocate to the area?do you live within 50 miles of nashville and/or planning to relocate to the area?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "textbox",
+        "question": "are you currently a u.s citizen and/or authorized to work in the u.s?",
+        "answer": "Yes"
+    },
+    {
+        "type": "textbox",
+        "question": "what is your salary requirement?",
+        "answer": "60000."
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with c (programming language)?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with microsoft dynamics crm?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you eligible for a secret clearanceare you eligible for a secret clearance",
+        "answer": "No"
+    },
+    {
+        "type": "radio",
+        "question": "have you completed the following level of education: associate's degree?have you completed the following level of education: associate's degree?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "dropdown",
+        "question": "will you be interested in consulting-based jobs?will you be interested in consulting-based jobs?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "thank you for your interest in this position. please only apply via linkedin and do not reach out to our team directly as that can slow down our hiring process.thank you for your interest in this position. please only apply via linkedin and do not reach out to our team directly as that can slow down our hiring process.",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "will you be interested in consulting-based jobs?will you be interested in consulting-based jobs?",
+        "answer": "Yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years do you have experience with research?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sales?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with sales?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with selenium?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with communication?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of customer service experience do you currently have?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with hmi programming?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with hadoop?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with soldering?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience do you have wit pcb testing/work?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with hibernate?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with enterprise software?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with computer networking?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with agile project management?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with ios?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with android?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with tensorflow?",
+        "answer": 3
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with google cloud platform (gcp)?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with jenkins?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "knowledge of devops principles and tools (ansible).",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "ci/cd tools such as jenkins, circleci, or gitlab for ml pipelines.",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience as a .net developer?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience with azure?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of experience with c#?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "malefemaledecline to answer",
+        "answer": "male"
+    },
+    {
+        "type": "dropdown",
+        "question": "racerace",
+        "answer": "Asian, not Hispanic or Latino"
+    },
+    {
+        "type": "textbox",
+        "question": "please describe in 2-3 sentences your ruby on rails development experience.",
+        "answer": "Not yet, but willing to learn."
+    },
+    {
+        "type": "textbox",
+        "question": "of the sdlc phases (project planning, requirements gathering/analysis, design, coding or implementation, testing, deployment, and maintenance) what is your favorite phase and why?",
+        "answer": "I enjoy the coding phase most for its creativity and problem-solving aspects, bringing ideas to life through programming."
+    },
+    {
+        "type": "textbox",
+        "question": "tell us 2 things that are important to you in your next role:",
+        "answer": "I value the flexibility of remote work and the opportunity for in-person collaboration."
+    },
+    {
+        "type": "textbox",
+        "question": "briefly tell us your experience using gems.",
+        "answer": "Not yet, but willing to learn."
+    },
+    {
+        "type": "radio",
+        "question": "are you currently authorized to work in the us without restriction?are you currently authorized to work in the us without restriction?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "textbox",
+        "question": "can you perform the essential functions of the job with or without reasonable accommodation?",
+        "answer": "Yes"
+    },
+    {
+        "type": "dropdown",
+        "question": "confirm the state you'll be working from:confirm the state you'll be working from:",
+        "answer": "Missouri"
+    },
+    {
+        "type": "textbox",
+        "question": "what is your desired pay? this should be a number at which you'd happily accept an offer assuming the role fit your requirements.",
+        "answer": "60000."
+    },
+    {
+        "type": "dropdown",
+        "question": "where did you find our job posting?where did you find our job posting?",
+        "answer": "Other"
+    },
+    {
+        "type": "textbox",
+        "question": "did a kotis employee refer you to this posting? if so, who?",
+        "answer": "No, a Kotis employee did not refer me to this posting."
+    },
+    {
+        "type": "dropdown",
+        "question": "have you ever founded, co-founded, or led a significant ai project within a company?have you ever founded, co-founded, or led a significant ai project within a company?",
+        "answer": "No"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with dynamic sql?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with tableau?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "are you legally authorized to work in the us?are you legally authorized to work in the us?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you live in north america?do you live in north america?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "by checking this box, you will declare that you read and agree to the privacy policy of xp power.by checking this box, you will declare that you read and agree to the privacy policy of xp power.requiredi consent",
+        "answer": "i consent"
+    },
+    {
+        "type": "radio",
+        "question": "by checking this box, you will declare that you read and agree to the privacy policy of xp power.by checking this box, you will declare that you read and agree to the privacy policy of xp power.requiredi consent",
+        "answer": "i consent"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have using c#?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have using unity?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "this job requires regular in-person office attendance. are you comfortable commuting to the office on a regular basis?this job requires regular in-person office attendance. are you comfortable commuting to the office on a regular basis?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with embedded c++?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "are you a u.s. person?are you a u.s. person?",
+        "answer": "No"
+    },
+    {
+        "type": "textbox",
+        "question": "why are you interested in credit karma?",
+        "answer": "I am excited to apply for the Android Engineer position at Intuit Credit Karma, where your mission to champion financial progress for millions aligns perfectly with my passion for developing impactful software solutions. With a Bachelor's degree in Computer Science and over two years of industry experience, I have honed my skills in Android development, particularly in Kotlin, and am eager to contribute to your innovative team.\n\nAt Capgemini, I led the development of dynamic web applications and collaborated with cross-functional teams to enhance user experiences, achieving a 30% reduction in page load times. My experience with Java and Spring frameworks, coupled with my familiarity with popular Android design patterns, positions me well to guide the features and direction of your app. I am particularly drawn to the collaborative environment at Credit Karma, where I can work closely with Product and Design teams to brainstorm and implement features that directly impact users' financial health.\n\nI am impressed by Credit Karma's commitment to diversity and inclusion, which resonates with my belief in fostering an environment where every voice is heard. I am eager to bring my technical expertise and customer-focused mindset to your team, and I look forward to discussing how I can contribute to your mission of empowering financial progress for all."
+    },
+    {
+        "type": "textbox",
+        "question": "how did you come to know about this role?",
+        "answer": "I am excited to apply for the Android Engineer position at Intuit Credit Karma, as I am passionate about leveraging technology to empower individuals in their financial journeys. With a Bachelor's Degree in Computer Science and hands-on experience in software development, particularly in Android applications, I am eager to contribute to your mission of championing financial progress for over 130 million members globally.\n\nDuring my tenure as a Senior Software Engineer at Capgemini, I successfully collaborated with cross-functional teams to develop and enhance applications, utilizing Kotlin and various Android frameworks. I played a pivotal role in driving the creation of numerous features that improved user experience and application performance. My experience in implementing metrics and dashboards has equipped me to make data-driven decisions, ensuring the delivery of high-quality applications that resonate with users' needs. Additionally, my familiarity with popular design patterns and full software development life cycle aligns well with the requirements of this role.\n\nI am particularly drawn to Credit Karma's commitment to diversity and inclusion, as well as its focus on creating a collaborative environment where every voice is heard. I believe my background in building member-facing applications and my dedication to continuous improvement make me a strong fit for your team. I look forward to the opportunity to discuss how my skills and experiences can contribute to the innovative work being done at Credit Karma."
+    },
+    {
+        "type": "dropdown",
+        "question": "this job will be physically based in the office location indicated on this job description. which of the following describes your current or future situation?this job will be physically based in the office location indicated on this job description. which of the following describes your current or future situation?",
+        "answer": "I do not currently live in the location mentioned, but would plan to relocate myself for this role."
+    },
+    {
+        "type": "radio",
+        "question": "will you now or in the future require visa sponsorship for employment in the united states?will you now or in the future require visa sponsorship for employment in the united states?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "city/town",
+        "answer": "Dayton"
+    },
+    {
+        "type": "dropdown",
+        "question": "countrycountry",
+        "answer": "United States of America (USA)"
+    },
+    {
+        "type": "textbox",
+        "question": "street address (include apartment/unit # when applicable)",
+        "answer": "100 Cannonbury ct"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with nintex?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with geographic information systems (gis)?",
+        "answer": 2
+    },
+    {
+        "type": "radio",
+        "question": "are you a louisana resident?are you a louisana resident?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "are you available to work on-site at our kenner, la location monday-friday?are you available to work on-site at our kenner, la location monday-friday?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "radio",
+        "question": "do you live with any testronic employees?do you live with any testronic employees?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "do you live with someone who is currently employed at another video game company? (i.e activision blizzard, bethesda, riot, electronic arts, etc.)do you live with someone who is currently employed at another video game company? (i.e activision blizzard, bethesda, riot, electronic arts, etc.)requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "radio",
+        "question": "what gaming consoles have you owned, if any?what gaming consoles have you owned, if any?requirednintendo switchplaystation (any generation)xbox (any generation)retro consolessteam deckvr device",
+        "answer": "vr device"
+    },
+    {
+        "type": "textbox",
+        "question": "who is your internet service provider?",
+        "answer": "I do not have information about my internet service provider."
+    },
+    {
+        "type": "textbox",
+        "question": "what's your favorite video game?",
+        "answer": "I don't have a favorite video game. My interests are in tech and development."
+    },
+    {
+        "type": "textbox",
+        "question": "how many hours do you spend playing video games weekly?",
+        "answer": "I don't play video games."
+    },
+    {
+        "type": "textbox",
+        "question": "what are your hourly pay expectations?",
+        "answer": "30."
+    },
+    {
+        "type": "textbox",
+        "question": "when are you available to start?",
+        "answer": "I am available to start immediately."
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of research experience do you have in both academic and industry settings?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of professional programming experience do you have with python or c/c++?",
+        "answer": 4
+    },
+    {
+        "type": "numeric",
+        "question": "how many academic papers have you authored or co-authored in quantum computing or related research areas that were published in peer-reviewed journals?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many citations have your published papers accumulated?",
+        "answer": 2
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with subversion?",
+        "answer": 2
+    },
+    {
+        "type": "dropdown",
+        "question": "pronounspronouns",
+        "answer": "He, Him, His, Himself"
+    },
+    {
+        "type": "textbox",
+        "question": "pronouns (other)",
+        "answer": "He"
+    },
+    {
+        "type": "textbox",
+        "question": "how did you hear about this job?",
+        "answer": "I am excited to apply for the Software Engineer position at Cedar, where your mission to enhance the healthcare experience aligns perfectly with my professional goals. With a Bachelor's degree in Computer Science and over two years of experience in software development, I am eager to contribute to Cedar's vision of making healthcare more affordable and accessible through innovative technology.\n\nIn my previous role as a Senior Software Engineer at Capgemini, I successfully drove the creation of over 15 application reports and collaborated with agile teams to enhance client experiences. My expertise in Java and Spring frameworks allowed me to optimize backend services, which directly aligns with Cedar's focus on improving patient engagement and payment systems. Additionally, my experience in migrating legacy code to modern technology stacks, including AWS and React.js, has equipped me with the skills necessary to develop and maintain features that enhance payment processing and patient interactions.\n\nI am particularly drawn to Cedar's commitment to inclusivity and its ambitious goal of serving millions of Americans by 2025. I believe my technical skills, coupled with my passion for improving user experiences in healthcare, make me a strong fit for this role. I would love the opportunity to discuss how I can contribute to Cedar's mission and help create a smoother patient billing experience."
+    },
+    {
+        "type": "radio",
+        "question": "pythonrubyjavajavascriptc#gotypescriptsqlperlkotlinphpc/c++html/cssrscala",
+        "answer": "javascript"
+    },
+    {
+        "type": "radio",
+        "question": "formal educationself-studycoding bootcampswork experiencepersonal projects",
+        "answer": "formal education"
+    },
+    {
+        "type": "dropdown",
+        "question": "how many years of professional (not including schooling, unpaid projects or internships) experience do you have programming in the languages you selected?how many years of professional (not including schooling, unpaid projects or internships) experience do you have programming in the languages you selected?",
+        "answer": "2 - 3 years"
+    },
+    {
+        "type": "dropdown",
+        "question": "cedar offers a flexible work environment - remote, hybrid, and in our nyc office. please specify your preferred location from the following options:cedar offers a flexible work environment - remote, hybrid, and in our nyc office. please specify your preferred location from the following options:",
+        "answer": "NYC Area"
+    },
+    {
+        "type": "dropdown",
+        "question": "which area of software development do you specialize in?which area of software development do you specialize in?",
+        "answer": "Full Stack"
+    },
+    {
+        "type": "dropdown",
+        "question": "do you confirm that this is a unpaid position without the promise of compensation.do you confirm that this is a unpaid position without the promise of compensation.",
+        "answer": "No"
+    },
+    {
+        "type": "dropdown",
+        "question": "can you dedicate 10-20 hours per week to this internship role? (more is welcome however not required)can you dedicate 10-20 hours per week to this internship role? (more is welcome however not required)",
+        "answer": "Yes"
     }
 ]
